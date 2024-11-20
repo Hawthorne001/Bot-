@@ -4,7 +4,7 @@
   "homepage": "/",
   "private": true,
   "dependencies": {
-    "@braintree/sanitize-url": "^6.0.4",
+    "@braintree/sanitize-url": "^7.0.0",
     "@monaco-editor/react": "^4.4.6",
     "@near-wallet-selector/core": "^8.5.0",
     "@near-wallet-selector/here-wallet": "^8.5.0",
@@ -95,7 +95,7 @@
     "stream-http": "^3.2.0",
     "style-loader": "^3.2.1",
     "url": "^0.11.0",
-    "webpack": "^5.76.0",
+    "webpack": "^5.94.0",
     "webpack-bundle-analyzer": "^4.4.2",
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.1.0",
